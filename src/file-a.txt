@@ -1,1 +1,2 @@
 Hi, I'm file A.
+New line aded.
