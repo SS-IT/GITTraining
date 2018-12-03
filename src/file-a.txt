@@ -1,6 +1,0 @@
-Hi, I'm file A.
-New line aded.
-Addming new line on Dec 3rd 2018.
-
-This is additional line added.
-
